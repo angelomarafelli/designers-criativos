@@ -1,123 +1,124 @@
 # designers-criativos
 Repositório para Designers Criativos
 
-##Banco de imagens
+## Banco de imagens
 
--1. https://visualhunt.com/
-3. https://www.pexels.com/
-4. http://epicantus.tumblr.com/
-5. http://kaboompics.com/
-6. https://www.shutterstock.com/
-7. https://stock.tookapic.com/
-8. http://jaymantri.com/
-9. http://snapwiresnaps.tumblr.com/
-10. http://freestocks.org/
-11. http://getrefe.tumblr.com/
-12. http://nos.twnsnd.co/
-13. https://picjumbo.com/
-14. http://superfamous.com/
-15. http://deathtothestockphoto.com/
-16. http://www.lifeofpix.com/
-17. http://search.creativecommons.org/
-18. https://morguefile.com/
-19. http://www.photl.com/
-20. https://photodune.net/
-21. http://littlevisuals.co/
-22. http://www.splitshire.com/
-23. http://negativespace.co/
-24. http://www.stockvault.net/
-25. http://www.gratisography.com/
-26. https://unsplash.com/
-27. https://stocksnap.io/
-28. http://jeshoots.com/
-29. http://br.123rf.com/
-30. http://pixabay.com/
-31. http://cupcake.nilssonlee.se/
-32. http://www.uhdwallpapers.org/
-33. http://kaboompics.com/
-34. http://foodiesfeed.com/
-35. http://www.raumrot.com/10/
-36. http://jaymantri.com/
-37. https://us.fotolia.com/
-38. https://visualhunt.com/
-39. https://www.pexels.com/
-40. http://epicantus.tumblr.com/
-41. http://kaboompics.com/
-42. https://www.shutterstock.com/
-43. https://stock.tookapic.com/
-44. http://jaymantri.com/
-45. http://snapwiresnaps.tumblr.com/
-46. http://freestocks.org/
-47. http://getrefe.tumblr.com/
-48. http://nos.twnsnd.co/
-49. https://picjumbo.com/
-50. http://superfamous.com/
-51. http://deathtothestockphoto.com/
-52. http://www.lifeofpix.com/
-53. http://search.creativecommons.org/
-54. https://morguefile.com/
-55. http://www.photl.com/
-56. https://photodune.net/
-57. http://littlevisuals.co/
-58. http://www.splitshire.com/
-59. http://negativespace.co/
-60. http://www.stockvault.net/
-61. http://www.gratisography.com/
-62. https://unsplash.com/
-63. https://stocksnap.io/
-64. http://jeshoots.com/
-65. http://br.123rf.com/
-66. http://pixabay.com/
-67. http://cupcake.nilssonlee.se/
-68. http://www.uhdwallpapers.org/
-69. http://kaboompics.com/
-70. http://foodiesfeed.com/
-71. http://www.raumrot.com/10/
-72. http://jaymantri.com/
-73. https://www.pexels.com/
-74. http://epicantus.tumblr.com/
-75. http://kaboompics.com/
-76. http://mmtstock.com/
-77. https://stock.tookapic.com/photos?filter=free
-78. http://jaymantri.com/
-79. http://snapwiresnaps.tumblr.com/
-80. http://freestocks.org/
-81. http://getrefe.tumblr.com/
-82. http://nos.twnsnd.co/
-83. http://www.imcreator.com/free
-84. https://picjumbo.com/
-85. http://superfamous.com/
-86. http://deathtothestockphoto.com/
-87. http://www.lifeofpix.com/
-88. http://littlevisuals.co/
-89. http://www.splitshire.com/
-90. http://negativespace.co/
-91. http://www.gratisography.com/
-92. https://unsplash.com/
-93. https://stocksnap.io/
-94. http://jeshoots.com/
-95. http://pixabay.com/ 
-96. http://cupcake.nilssonlee.se/
-97. http://www.uhdwallpapers.org/
-98. http://kaboompics.com/
-99. http://foodiesfeed.com/
-100. http://www.raumrot.com/10/
-101. http://jaymantri.com/
+1. https://visualhunt.com/
+2. https://www.pexels.com/
+3. http://epicantus.tumblr.com/
+4. http://kaboompics.com/
+5. https://www.shutterstock.com/
+6. https://stock.tookapic.com/
+7. http://jaymantri.com/
+8. http://snapwiresnaps.tumblr.com/
+9. http://freestocks.org/
+10. http://getrefe.tumblr.com/
+11. http://nos.twnsnd.co/
+12. https://picjumbo.com/
+13. http://superfamous.com/
+14. http://deathtothestockphoto.com/
+15. http://www.lifeofpix.com/
+16. http://search.creativecommons.org/
+17. https://morguefile.com/
+18. http://www.photl.com/
+19. https://photodune.net/
+20. http://littlevisuals.co/
+21. http://www.splitshire.com/
+22. http://negativespace.co/
+23. http://www.stockvault.net/
+24. http://www.gratisography.com/
+25. https://unsplash.com/
+26. https://stocksnap.io/
+27. http://jeshoots.com/
+28. http://br.123rf.com/
+29. http://pixabay.com/
+30. http://cupcake.nilssonlee.se/
+31. http://www.uhdwallpapers.org/
+32. http://kaboompics.com/
+33. http://foodiesfeed.com/
+34. http://www.raumrot.com/10/
+35. http://jaymantri.com/
+36. https://us.fotolia.com/
+37. https://visualhunt.com/
+38. https://www.pexels.com/
+39. http://epicantus.tumblr.com/
+40. http://kaboompics.com/
+41. https://www.shutterstock.com/
+42. https://stock.tookapic.com/
+43. http://jaymantri.com/
+44. http://snapwiresnaps.tumblr.com/
+45. http://freestocks.org/
+46. http://getrefe.tumblr.com/
+47. http://nos.twnsnd.co/
+48. https://picjumbo.com/
+49. http://superfamous.com/
+50. http://deathtothestockphoto.com/
+51. http://www.lifeofpix.com/
+52. http://search.creativecommons.org/
+53. https://morguefile.com/
+54. http://www.photl.com/
+55. https://photodune.net/
+56. http://littlevisuals.co/
+57. http://www.splitshire.com/
+58. http://negativespace.co/
+59. http://www.stockvault.net/
+60. http://www.gratisography.com/
+61. https://unsplash.com/
+62. https://stocksnap.io/
+63. http://jeshoots.com/
+64. http://br.123rf.com/
+65. http://pixabay.com/
+66. http://cupcake.nilssonlee.se/
+67. http://www.uhdwallpapers.org/
+68. http://kaboompics.com/
+69. http://foodiesfeed.com/
+70. http://www.raumrot.com/10/
+71. http://jaymantri.com/
+72. https://www.pexels.com/
+73. http://epicantus.tumblr.com/
+74. http://kaboompics.com/
+75. http://mmtstock.com/
+76. https://stock.tookapic.com/photos?filter=free
+77. http://jaymantri.com/
+78. http://snapwiresnaps.tumblr.com/
+79. http://freestocks.org/
+80. http://getrefe.tumblr.com/
+81. http://nos.twnsnd.co/
+82. http://www.imcreator.com/free
+83. https://picjumbo.com/
+84. http://superfamous.com/
+85. http://deathtothestockphoto.com/
+86. http://www.lifeofpix.com/
+87. http://littlevisuals.co/
+88. http://www.splitshire.com/
+89. http://negativespace.co/
+90. http://www.gratisography.com/
+91. https://unsplash.com/
+92. https://stocksnap.io/
+93. http://jeshoots.com/
+94. http://pixabay.com/
+95. http://cupcake.nilssonlee.se/
+96. http://www.uhdwallpapers.org/
+97. http://kaboompics.com/
+98. http://foodiesfeed.com/
+99. http://www.raumrot.com/10/
+100. http://jaymantri.com/
 
->Ferramentas Úteis trrabalhar com paletas de cores e harmonia:
+## Ferramentas Úteis
 
-https://color.adobe.com/pt
+### Paletas de cores e harmonia
+- https://color.adobe.com/pt
 
-pesquisa a fonte atraves de imagem
-https://www.whatfontis.com/
+### Pesquisar a fonte atraves de imagem
+- https://www.whatfontis.com/
 
-escreva um texto e exibe as fontes do PC com a escrita
-https://wordmark.it/
+### Escreva um texto e visualize com o GoogleFonts
+- https://wordmark.it/
 
-fontes únicas disponibilizadas por criadores
+### Fontes únicas disponibilizadas por criadores
 https://www.deviantart.com/whats-hot/?q=free+font
 
-tamanhos exatos das redes sociais
+## Tamanhos exatos para redes sociais
 http://marketingdeconteudo.com/tamanho-imagens-redes-socia…/
 
 Tudo sobre OpenGraph de redes socias para seu site
