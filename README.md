@@ -1,12 +1,9 @@
 # designers-criativos
 Repositório para Designers Criativos
 
-*UTILIDADE PÚBLICA* PARA DESIGNERS E CRIATIVOS. 
-1 post cheio de dicas e ferramentas para facilitar a vida de designers.
+##Banco de imagens
 
-Banco de imagens
-
-2 https://visualhunt.com/
+-1. https://visualhunt.com/
 3. https://www.pexels.com/
 4. http://epicantus.tumblr.com/
 5. http://kaboompics.com/
