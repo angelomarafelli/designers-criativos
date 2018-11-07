@@ -116,16 +116,16 @@ Repositório para Designers Criativos
 - https://wordmark.it/
 
 ### Fontes únicas disponibilizadas por criadores
-https://www.deviantart.com/whats-hot/?q=free+font
+- https://www.deviantart.com/whats-hot/?q=free+font
 
 ### Tamanhos exatos para redes sociais
-https://marketingdeconteudo.com/tamanho-imagens-redes-sociais;
+- https://marketingdeconteudo.com/tamanho-imagens-redes-sociais;
 
 ### Tudo sobre OpenGraph de redes sociais
-http://blog.popupdesign.com.br/facebook-open-graph/
+- http://blog.popupdesign.com.br/facebook-open-graph/
 
 ### Teste de preeviews de sites ao linkar no facebook
-https://www.facebook.com/login.php…
+- https://www.facebook.com/login.php…
 
 ## Mockups
 1. https://www.teehanlax.com/tools/iphone
